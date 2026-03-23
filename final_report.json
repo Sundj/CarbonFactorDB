@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "final_report": {
+    "timestamp": "2026-03-23T09:00:54.454532",
+    "elapsed_seconds": 443,
+    "status": "completed",
+    "categories": {
+      "total": 456,
+      "crawled": 456,
+      "progress_percent": 100.0
+    },
+    "factors": {
+      "total": 3025
+    },
+    "current_category": "行业企业 [352/352] 其他行业-公共建筑运营单位-净购入电力与热力-电力消费-化石能源电力二氧化碳排放因子-全国化石能源电力二氧化碳排放因子",
+    "errors": {
+      "count": 0,
+      "recent": []
+    }
+  },
+  "statistics": {
+    "source_categories": 104,
+    "industry_categories": 352,
+    "total_factors": 3025,
+    "source_factors": 499,
+    "industry_factors": 2526
+  }
+}
