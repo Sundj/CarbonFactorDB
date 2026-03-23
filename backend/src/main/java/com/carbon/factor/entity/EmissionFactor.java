@@ -233,4 +233,98 @@ public class EmissionFactor {
     
     public FactorCategoryLevel3 getCategory3() { return category3; }
     public void setCategory3(FactorCategoryLevel3 category3) { this.category3 = category3; }
+    
+    public Integer getDeleted() { return deleted; }
+    public void setDeleted(Integer deleted) { this.deleted = deleted; }
+    
+    // Additional getters and setters
+    public String getFactorUnitCn() { return factorUnitCn; }
+    public void setFactorUnitCn(String factorUnitCn) { this.factorUnitCn = factorUnitCn; }
+    
+    public String getIpccSectorCode() { return ipccSectorCode; }
+    public void setIpccSectorCode(String ipccSectorCode) { this.ipccSectorCode = ipccSectorCode; }
+    
+    public String getIpccSectorName() { return ipccSectorName; }
+    public void setIpccSectorName(String ipccSectorName) { this.ipccSectorName = ipccSectorName; }
+    
+    public String getIpccCategoryCode() { return ipccCategoryCode; }
+    public void setIpccCategoryCode(String ipccCategoryCode) { this.ipccCategoryCode = ipccCategoryCode; }
+    
+    public String getIpccCategoryName() { return ipccCategoryName; }
+    public void setIpccCategoryName(String ipccCategoryName) { this.ipccCategoryName = ipccCategoryName; }
+    
+    public String getScopeSubcategory() { return scopeSubcategory; }
+    public void setScopeSubcategory(String scopeSubcategory) { this.scopeSubcategory = scopeSubcategory; }
+    
+    public BigDecimal getCo2Factor() { return co2Factor; }
+    public void setCo2Factor(BigDecimal co2Factor) { this.co2Factor = co2Factor; }
+    
+    public BigDecimal getCh4Factor() { return ch4Factor; }
+    public void setCh4Factor(BigDecimal ch4Factor) { this.ch4Factor = ch4Factor; }
+    
+    public BigDecimal getN2oFactor() { return n2oFactor; }
+    public void setN2oFactor(BigDecimal n2oFactor) { this.n2oFactor = n2oFactor; }
+    
+    public BigDecimal getOtherGhgFactor() { return otherGhgFactor; }
+    public void setOtherGhgFactor(BigDecimal otherGhgFactor) { this.otherGhgFactor = otherGhgFactor; }
+    
+    public String getGwpVersion() { return gwpVersion; }
+    public void setGwpVersion(String gwpVersion) { this.gwpVersion = gwpVersion; }
+    
+    public String getApplicableProvince() { return applicableProvince; }
+    public void setApplicableProvince(String applicableProvince) { this.applicableProvince = applicableProvince; }
+    
+    public String getApplicableCity() { return applicableCity; }
+    public void setApplicableCity(String applicableCity) { this.applicableCity = applicableCity; }
+    
+    public String getApplicableIndustry() { return applicableIndustry; }
+    public void setApplicableIndustry(String applicableIndustry) { this.applicableIndustry = applicableIndustry; }
+    
+    public String getApplicableScenario() { return applicableScenario; }
+    public void setApplicableScenario(String applicableScenario) { this.applicableScenario = applicableScenario; }
+    
+    public String getSourceDocument() { return sourceDocument; }
+    public void setSourceDocument(String sourceDocument) { this.sourceDocument = sourceDocument; }
+    
+    public String getSourceVersion() { return sourceVersion; }
+    public void setSourceVersion(String sourceVersion) { this.sourceVersion = sourceVersion; }
+    
+    public String getConfidenceLevel() { return confidenceLevel; }
+    public void setConfidenceLevel(String confidenceLevel) { this.confidenceLevel = confidenceLevel; }
+    
+    public String getUncertaintyRange() { return uncertaintyRange; }
+    public void setUncertaintyRange(String uncertaintyRange) { this.uncertaintyRange = uncertaintyRange; }
+    
+    public String getCalculationMethod() { return calculationMethod; }
+    public void setCalculationMethod(String calculationMethod) { this.calculationMethod = calculationMethod; }
+    
+    public String getCalculationBoundary() { return calculationBoundary; }
+    public void setCalculationBoundary(String calculationBoundary) { this.calculationBoundary = calculationBoundary; }
+    
+    public String getTechnicalRoute() { return technicalRoute; }
+    public void setTechnicalRoute(String technicalRoute) { this.technicalRoute = technicalRoute; }
+    
+    public Integer getFactorVersion() { return factorVersion; }
+    public void setFactorVersion(Integer factorVersion) { this.factorVersion = factorVersion; }
+    
+    public Integer getIsLatestVersion() { return isLatestVersion; }
+    public void setIsLatestVersion(Integer isLatestVersion) { this.isLatestVersion = isLatestVersion; }
+    
+    public Integer getIsOfficial() { return isOfficial; }
+    public void setIsOfficial(Integer isOfficial) { this.isOfficial = isOfficial; }
+    
+    public Integer getStatus() { return status; }
+    public void setStatus(Integer status) { this.status = status; }
+    
+    public LocalDateTime getCreatedAt() { return createdAt; }
+    public void setCreatedAt(LocalDateTime createdAt) { this.createdAt = createdAt; }
+    
+    public LocalDateTime getUpdatedAt() { return updatedAt; }
+    public void setUpdatedAt(LocalDateTime updatedAt) { this.updatedAt = updatedAt; }
+    
+    public Long getCreatedBy() { return createdBy; }
+    public void setCreatedBy(Long createdBy) { this.createdBy = createdBy; }
+    
+    public Long getUpdatedBy() { return updatedBy; }
+    public void setUpdatedBy(Long updatedBy) { this.updatedBy = updatedBy; }
 }
