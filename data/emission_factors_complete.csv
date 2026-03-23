@@ -1,0 +1,54 @@
+﻿factor_code,factor_name,scope_type,factor_value,factor_unit,scope_subcategory,applicable_region,data_source,source_year,data_quality,category1_name,category2_code,ipcc_code
+EF-COAL-001,原煤,SCOPE1,1.9003,tCO2e/t,固定源燃烧,全国,《中国能源统计年鉴》+ IPCC,2023,高,能源活动,STATIONARY,1.A.1
+EF-COAL-002,洗精煤,SCOPE1,2.5,tCO2e/t,固定源燃烧,全国,国家清单指南,2023,高,能源活动,STATIONARY,1.A.1
+EF-COAL-003,焦炭,SCOPE1,2.86,tCO2e/t,固定源燃烧,全国,国家清单指南,2023,高,能源活动,STATIONARY,1.A.1
+EF-COAL-004,型煤,SCOPE1,1.9,tCO2e/t,固定源燃烧,全国,国家清单指南,2023,中,能源活动,STATIONARY,1.A.1
+EF-COAL-005,煤矸石,SCOPE1,0.9,tCO2e/t,固定源燃烧,全国,国家清单指南,2023,中,能源活动,STATIONARY,1.A.1
+EF-OIL-001,原油,SCOPE1,3.02,tCO2e/t,固定源燃烧,全国,IPCC 2006,2023,高,能源活动,STATIONARY,1.A.1
+EF-OIL-002,汽油,SCOPE1,2.925,tCO2e/t,固定源燃烧,全国,国家清单指南,2023,高,能源活动,STATIONARY,1.A.1
+EF-OIL-003,柴油,SCOPE1,3.0959,tCO2e/t,固定源燃烧,全国,国家清单指南,2023,高,能源活动,STATIONARY,1.A.1
+EF-OIL-004,煤油,SCOPE1,3.033,tCO2e/t,固定源燃烧,全国,IPCC 2006,2023,高,能源活动,STATIONARY,1.A.1
+EF-OIL-005,燃料油,SCOPE1,3.17,tCO2e/t,固定源燃烧,全国,国家清单指南,2023,高,能源活动,STATIONARY,1.A.1
+EF-OIL-006,液化石油气,SCOPE1,3.1013,tCO2e/t,固定源燃烧,全国,国家清单指南,2023,高,能源活动,STATIONARY,1.A.1
+EF-OIL-007,炼厂干气,SCOPE1,2.9,tCO2e/t,固定源燃烧,全国,国家清单指南,2023,中,能源活动,STATIONARY,1.A.1
+EF-OIL-008,石脑油,SCOPE1,3.15,tCO2e/t,固定源燃烧,全国,IPCC 2006,2023,高,能源活动,STATIONARY,1.A.1
+EF-OIL-009,润滑油,SCOPE1,3.15,tCO2e/t,固定源燃烧,全国,IPCC 2006,2023,中,能源活动,STATIONARY,1.A.1
+EF-OIL-010,石蜡,SCOPE1,3.2,tCO2e/t,固定源燃烧,全国,IPCC 2006,2023,中,能源活动,STATIONARY,1.A.1
+EF-OIL-011,沥青,SCOPE1,3.17,tCO2e/t,固定源燃烧,全国,IPCC 2006,2023,中,能源活动,STATIONARY,1.A.1
+EF-OIL-012,石油焦,SCOPE1,3.2,tCO2e/t,固定源燃烧,全国,国家清单指南,2023,高,能源活动,STATIONARY,1.A.1
+EF-GAS-001,天然气,SCOPE1,2.162,tCO2e/万Nm3,固定源燃烧,全国,国家清单指南,2023,高,能源活动,STATIONARY,1.A.1
+EF-GAS-002,液化天然气,SCOPE1,2.7,tCO2e/t,固定源燃烧,全国,IPCC 2006,2023,高,能源活动,STATIONARY,1.A.1
+EF-GAS-003,焦炉煤气,SCOPE1,1.1,tCO2e/万Nm3,固定源燃烧,全国,国家清单指南,2023,中,能源活动,STATIONARY,1.A.1
+EF-GAS-004,高炉煤气,SCOPE1,2.0,tCO2e/万Nm3,固定源燃烧,全国,国家清单指南,2023,中,能源活动,STATIONARY,1.A.1
+EF-GAS-005,转炉煤气,SCOPE1,1.8,tCO2e/万Nm3,固定源燃烧,全国,国家清单指南,2023,中,能源活动,STATIONARY,1.A.1
+EF-OTHER-001,沼气,SCOPE1,1.0,tCO2e/万Nm3,固定源燃烧,全国,国家清单指南,2023,中,能源活动,STATIONARY,1.A.1
+EF-OTHER-002,工业废料,SCOPE1,1.5,tCO2e/t,固定源燃烧,全国,国家清单指南,2023,低,能源活动,STATIONARY,1.A.1
+EF-OTHER-003,城市固体废物,SCOPE1,0.9,tCO2e/t,固定源燃烧,全国,国家清单指南,2023,低,能源活动,STATIONARY,1.A.1
+EF-MOB-001,汽油（道路）,SCOPE1,2.37,tCO2e/t,移动源燃烧-道路,全国,国家清单指南,2023,高,能源活动,MOBILE,1.A.3.b
+EF-MOB-002,柴油（道路）,SCOPE1,3.02,tCO2e/t,移动源燃烧-道路,全国,国家清单指南,2023,高,能源活动,MOBILE,1.A.3.b
+EF-MOB-003,天然气（道路）,SCOPE1,2.2,tCO2e/t,移动源燃烧-道路,全国,国家清单指南,2023,中,能源活动,MOBILE,1.A.3.b
+EF-AVI-001,航空煤油（国内）,SCOPE1,3.15,tCO2e/t,移动源燃烧-航空,全国,国家清单指南,2023,高,能源活动,MOBILE,1.A.3.a
+EF-SHIP-001,船用燃料油,SCOPE1,3.17,tCO2e/t,移动源燃烧-水运,全国,国家清单指南,2023,高,能源活动,MOBILE,1.A.3.d
+EF-ELC-001,电网平均排放因子,SCOPE2,0.5703,tCO2e/MWh,外购电力,全国,生态环境部,2023,高,能源活动,ENERGY_INDIRECT,2
+EF-ELC-002,电网平均排放因子（华北）,SCOPE2,0.7125,tCO2e/MWh,外购电力,华北,生态环境部,2023,高,能源活动,ENERGY_INDIRECT,2
+EF-ELC-003,电网平均排放因子（华东）,SCOPE2,0.5257,tCO2e/MWh,外购电力,华东,生态环境部,2023,高,能源活动,ENERGY_INDIRECT,2
+EF-ELC-004,电网平均排放因子（华南）,SCOPE2,0.4723,tCO2e/MWh,外购电力,华南,生态环境部,2023,高,能源活动,ENERGY_INDIRECT,2
+EF-ELC-005,电网平均排放因子（华中）,SCOPE2,0.4538,tCO2e/MWh,外购电力,华中,生态环境部,2023,高,能源活动,ENERGY_INDIRECT,2
+EF-ELC-006,电网平均排放因子（西北）,SCOPE2,0.5625,tCO2e/MWh,外购电力,西北,生态环境部,2023,高,能源活动,ENERGY_INDIRECT,2
+EF-ELC-007,电网平均排放因子（东北）,SCOPE2,0.6878,tCO2e/MWh,外购电力,东北,生态环境部,2023,高,能源活动,ENERGY_INDIRECT,2
+EF-ELC-008,电网平均排放因子（西南）,SCOPE2,0.2179,tCO2e/MWh,外购电力,西南,生态环境部,2023,高,能源活动,ENERGY_INDIRECT,2
+EF-HEAT-001,外购热力排放因子,SCOPE2,0.11,tCO2e/GJ,外购热力,全国,国家清单指南,2023,中,能源活动,ENERGY_INDIRECT,2
+EF-IND-001,水泥生产过程,SCOPE1,0.52,tCO2e/t熟料,水泥,全国,《水泥行业碳排放核算指南》,2023,高,工业生产过程,MINERAL,2.A.1
+EF-IND-002,石灰生产过程,SCOPE1,0.75,tCO2e/t石灰,石灰,全国,国家清单指南,2023,中,工业生产过程,MINERAL,2.A.2
+EF-IND-003,合成氨生产过程,SCOPE1,2.1,tCO2e/t氨,化工,全国,国家清单指南,2023,中,工业生产过程,CHEMICAL,2.B.1
+EF-IND-004,电炉炼钢,SCOPE1,0.08,tCO2e/t钢,钢铁,全国,行业经验值,2023,中,工业生产过程,METAL,2.C.1
+EF-TRA-001,公共汽车（柴油）,SCOPE1,0.05,kgCO2e/人·km,公共交通,全国,行业经验值,2023,中,交通运输,ROAD,1.A.3.b
+EF-TRA-002,地铁/轻轨,SCOPE2,0.015,kgCO2e/人·km,轨道交通,全国,行业经验值,2023,中,交通运输,RAIL,2
+EF-TRA-003,私家车（汽油）,SCOPE1,0.2,kgCO2e/km,私家车,全国,行业经验值,2023,中,交通运输,ROAD,1.A.3.b
+EF-TRA-004,国内航班,SCOPE1,0.15,kgCO2e/人·km,航空,全国,行业经验值,2023,中,交通运输,AIR,1.A.3.a
+EF-TRA-005,高速铁路,SCOPE2,0.025,kgCO2e/人·km,铁路,全国,行业经验值,2023,中,交通运输,RAIL,2
+EF-TRA-006,重型货车,SCOPE1,0.08,kgCO2e/t·km,公路货运,全国,行业经验值,2023,中,交通运输,ROAD,1.A.3.b
+EF-TRA-007,铁路货运,SCOPE2,0.01,kgCO2e/t·km,铁路货运,全国,行业经验值,2023,中,交通运输,RAIL,2
+EF-TRA-008,水运货运,SCOPE1,0.008,kgCO2e/t·km,水运,全国,行业经验值,2023,中,交通运输,WATER,1.A.3.d
+EF-BLD-001,住宅建筑（运行）,SCOPE2,35.0,kgCO2e/m2·年,建筑运行,全国,《建筑碳排放计算标准》,2023,中,建筑,OPERATION,2
+EF-BLD-002,公共建筑（运行）,SCOPE2,85.0,kgCO2e/m2·年,建筑运行,全国,《建筑碳排放计算标准》,2023,中,建筑,OPERATION,2
